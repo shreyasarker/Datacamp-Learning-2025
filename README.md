@@ -2,9 +2,7 @@
 
 Welcome to my personal learning repository where I document my progress through DataCamp courses in 2025. This space contains my:
 
-- 📝 Notes & summaries  
-- 🧪 Practice code  
-- 📊 Mini-projects  
+- 📝 Notes & summaries & Practice code    
 - 📄 Certificates  
 
 ## 🌟 Why I'm doing this:
@@ -19,9 +17,7 @@ By sharing my progress publicly, I also hope to inspire others who are on a simi
 
 
 Each course folder contains:
-- `notes.md` – A summary of what I learned  
-- `practice-code.py` – Code snippets & experiments  
-- `mini-project.ipynb` – Small hands-on project or challenge  
+- `workbook.ipynb` – A summary of what I learned along with Code snippets. 
 - `README.md` – Overview of that course module  
 
 ## ✅ Progress Tracker
@@ -29,7 +25,7 @@ Each course folder contains:
 | Course                               | Status    | Certificate |
 |--------------------------------------|-----------|-------------|
 | Intro to Python for Data Science     | ✅ Done    | ✔️ |
-| Intermediate Python                  | 🔄 Ongoing | – |
+| Intermediate Python                  | 🔄 Ongoing | ✔️ |
 | Pandas Foundations                   | ⏳ Next    | – |
 
 ---
