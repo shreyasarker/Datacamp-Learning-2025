@@ -18,5 +18,21 @@ Let’s master the pandas basics. Learn how to inspect DataFrames and perform fu
   - Subsetting columns
   - Subsetting rows
   - Subsetting rows by categorical variables
+- New columns
+  - Adding new columns
+  - Combo-attack!
+
+### 📊Aggregating DataFrames
+In this chapter, you’ll calculate summary statistics on DataFrame columns, and master grouped summary statistics and pivot tables.
+- Summary statistics
+  - Mean and median
+  - Summarizing dates
+  - Efficient summaries
+  - Cumulative statistics
+- Counting  
+  - Dropping duplicates
+  - Counting categorical variables
+
+
 
 
