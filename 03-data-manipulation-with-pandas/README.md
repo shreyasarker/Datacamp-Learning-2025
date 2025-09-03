@@ -36,6 +36,7 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - What percent of sales occurred at each store type?
   - Calculations with .groupby()
   - Multiple grouped summaries
+- Pivot tables  
 
 
 
