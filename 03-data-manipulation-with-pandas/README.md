@@ -32,6 +32,10 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
 - Counting  
   - Dropping duplicates
   - Counting categorical variables
+- Grouped summary statistics  
+  - What percent of sales occurred at each store type?
+  - Calculations with .groupby()
+  - Multiple grouped summaries
 
 
 
