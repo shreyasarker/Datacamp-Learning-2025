@@ -53,6 +53,11 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - Slicing in both directions
   - Slicing time series
   - Subsetting by row/column number  
+- Working with pivot tables
+  - Pivot temperature by city and year
+  - Subsetting pivot tables
+  - Calculating on a pivot table
+
 
 
 
