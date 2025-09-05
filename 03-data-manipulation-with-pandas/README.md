@@ -22,7 +22,8 @@ Let’s master the pandas basics. Learn how to inspect DataFrames and perform fu
   - Adding new columns
   - Combo-attack!
 
-### 📊Aggregating DataFrames
+### 📊 Aggregating DataFrames
+
 In this chapter, you’ll calculate summary statistics on DataFrame columns, and master grouped summary statistics and pivot tables.
 - Summary statistics
   - Mean and median
@@ -36,7 +37,18 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - What percent of sales occurred at each store type?
   - Calculations with .groupby()
   - Multiple grouped summaries
-- Pivot tables  
+- Pivot tables
+  - Pivoting on one variable
+  - Fill in missing values and sum values with pivot tables
+
+### 📊 Slicing and Indexing DataFrames    
+
+- Explicit indexes
+  - Setting and removing indexes
+  - Subsetting with .loc[]
+  - Setting multi-level indexes
+  - Sorting by index values
+
 
 
 
