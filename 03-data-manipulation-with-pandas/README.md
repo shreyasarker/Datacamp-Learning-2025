@@ -48,6 +48,11 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - Subsetting with .loc[]
   - Setting multi-level indexes
   - Sorting by index values
+- Slicing and subsetting with .loc and .iloc
+  - Slicing index values
+  - Slicing in both directions
+  - Slicing time series
+  - Subsetting by row/column number  
 
 
 
