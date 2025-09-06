@@ -71,6 +71,9 @@ Learn to visualize the contents of your DataFrames, handle missing data values, 
   - Finding missing values
   - Removing missing values
   - Replacing missing values
+- Creating DataFrames  
+  - List of dictionaries
+  - Dictionary of lists
 
 
 
