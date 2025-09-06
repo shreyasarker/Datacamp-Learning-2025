@@ -42,6 +42,7 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - Fill in missing values and sum values with pivot tables
 
 ### 📊 Slicing and Indexing DataFrames    
+Indexes are supercharged row and column names. Learn how they can be combined with slicing for powerful DataFrame subsetting.
 
 - Explicit indexes
   - Setting and removing indexes
@@ -58,7 +59,16 @@ In this chapter, you’ll calculate summary statistics on DataFrame columns, and
   - Subsetting pivot tables
   - Calculating on a pivot table
 
+### 📊 Creating and Visualizing DataFrames
+Learn to visualize the contents of your DataFrames, handle missing data values, and import data from and export data to CSV files.
 
+- Visualizing your data
+  - Which avocado size is most popular?
+  - Changes in sales over time
+  - Avocado supply and demand
+  - Price of conventional vs. organic avocados
+- Missing values
+  -   
 
 
 
