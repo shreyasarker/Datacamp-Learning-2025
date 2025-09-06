@@ -7,26 +7,7 @@ Welcome to my personal learning repository where I document my progress through 
 
 ## 🌟 Why I'm doing this:
 I want to deepen my understanding of data science and Python, stay accountable, and build a visible learning portfolio.  
-By sharing my progress publicly, I also hope to inspire others who are on a similar journey.
-
-## 📁 Folder Structure
-
-00-certificates/ ← All my course completion certificates
-01-intro-to-python-for-data-science/
-02-intermediate-python/
-
-
-Each course folder contains:
-- `workbook.ipynb` – A summary of what I learned along with Code snippets. 
-- `README.md` – Overview of that course module  
-
-## ✅ Progress Tracker
-
-| Course                               | Status    | Certificate |
-|--------------------------------------|-----------|-------------|
-| Intro to Python for Data Science     | ✅ Done    | ✔️ |
-| Intermediate Python                  | 🔄 Ongoing | ✔️ |
-| Pandas Foundations                   | ⏳ Next    | – |
+By sharing my progress publicly, I also hope to inspire others who are on a similar journey. 
 
 ---
 
