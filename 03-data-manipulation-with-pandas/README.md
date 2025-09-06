@@ -68,7 +68,9 @@ Learn to visualize the contents of your DataFrames, handle missing data values, 
   - Avocado supply and demand
   - Price of conventional vs. organic avocados
 - Missing values
-  -   
+  - Finding missing values
+  - Removing missing values
+  - Replacing missing values
 
 
 
