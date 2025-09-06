@@ -74,6 +74,10 @@ Learn to visualize the contents of your DataFrames, handle missing data values, 
 - Creating DataFrames  
   - List of dictionaries
   - Dictionary of lists
+- Reading and writing CSVs
+  - CSV to DataFrame
+  - DataFrame to CSV
+  
 
 
 
