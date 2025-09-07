@@ -17,5 +17,6 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
 
 - Customizing your plots
   - Customizing data appearance
+  - Customizing axis labels and adding titles
 
 
