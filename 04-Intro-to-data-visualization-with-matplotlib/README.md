@@ -15,4 +15,7 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
   - Using the matplotlib.pyplot interface
   - Adding data to an Axes object
 
+- Customizing your plots
+  - Customizing data appearance
+
 
