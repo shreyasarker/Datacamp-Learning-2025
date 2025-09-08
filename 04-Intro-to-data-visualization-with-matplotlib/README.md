@@ -19,4 +19,8 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
   - Customizing data appearance
   - Customizing axis labels and adding titles
 
+- Small multiples
+  - Creating small multiples with plt.subplots
+  - Small multiples with shared y axis
+
 
