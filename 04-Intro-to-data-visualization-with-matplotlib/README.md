@@ -23,4 +23,12 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
   - Creating small multiples with plt.subplots
   - Small multiples with shared y axis
 
+### 📅 Plotting time-series
+This chapter introduces the Matplotlib visualization library and demonstrates how to use it with data.
+
+- Plotting time-series data 
+  - Read data with a time index
+  - Plot time-series data
+  - Using a time index to zoom in
+
 
