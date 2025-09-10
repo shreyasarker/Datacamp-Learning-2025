@@ -31,4 +31,9 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
   - Plot time-series data
   - Using a time index to zoom in
 
+- Plotting time-series with different variables  
+  - Plotting two variables
+  - Defining a function that plots time-series data
+  - Using a plotting function
+
 
