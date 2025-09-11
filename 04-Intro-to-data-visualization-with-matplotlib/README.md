@@ -51,5 +51,10 @@ Visualizations can be used to compare data in a quantitative manner. This chapte
   - Creating histograms
   - "Step" histogram
 
+- Statistical plotting  
+  - Adding error-bars to a bar chart
+  - Adding error-bars to a plot
+  - Creating boxplots
+
 
 
