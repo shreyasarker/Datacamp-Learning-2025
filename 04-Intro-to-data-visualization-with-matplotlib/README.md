@@ -47,3 +47,9 @@ Visualizations can be used to compare data in a quantitative manner. This chapte
   - Bar chart
   - Stacked bar chart
 
+- Quantitative comparisons: histograms
+  - Creating histograms
+  - "Step" histogram
+
+
+
