@@ -36,4 +36,14 @@ This chapter introduces the Matplotlib visualization library and demonstrates ho
   - Defining a function that plots time-series data
   - Using a plotting function
 
+- Annotating time-series data
+  - Annotating a plot of time-series data
+  - Plotting time-series: putting it all together
+
+### 📅 Quantitative comparisons and statistical visualizations
+Visualizations can be used to compare data in a quantitative manner. This chapter explains several methods for quantitative visualizations.
+
+- Quantitative comparisons: bar-charts
+  - Bar chart
+  - Stacked bar chart
 
