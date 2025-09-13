@@ -56,5 +56,16 @@ Visualizations can be used to compare data in a quantitative manner. This chapte
   - Adding error-bars to a plot
   - Creating boxplots
 
+- Quantitative comparisons: scatter plots
+  - Simple scatter plot
+  - Encoding time by color
+
+
+### 📅 Sharing visualizations with others  
+This chapter shows you how to share your visualizations with others: how to save your figures as files, how to adjust their look and feel, and how to automate their creation based on input data.
+
+- Preparing your figures to share with others
+  - Switching between styles
+
 
 
