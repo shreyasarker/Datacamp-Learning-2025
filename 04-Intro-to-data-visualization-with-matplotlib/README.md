@@ -71,6 +71,10 @@ This chapter shows you how to share your visualizations with others: how to save
   - Saving a file several times
   - Save a figure with different sizes
 
+- Automating figures from data
+  - Unique values of a column
+  - Automate your visualization
+
 
 
 
