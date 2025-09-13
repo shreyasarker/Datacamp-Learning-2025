@@ -67,5 +67,10 @@ This chapter shows you how to share your visualizations with others: how to save
 - Preparing your figures to share with others
   - Switching between styles
 
+- Saving your visualizations  
+  - Saving a file several times
+  - Save a figure with different sizes
+
+
 
 
