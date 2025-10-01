@@ -22,4 +22,9 @@ Learn how you can merge disparate data using inner joins. By combining informati
   - Total riders in a month
   - Three table merge
   - One-to-many merge with multiple tables
+
+- Left join  
+  - Counting missing rows with left join
+  - Enriching a dataset
+
   
