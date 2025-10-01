@@ -14,3 +14,12 @@ Learn how you can merge disparate data using inner joins. By combining informati
 - Inner join
   - Your first inner join
   - Inner joins and number of rows returned
+
+- One-to-many relationships
+  - One-to-many merge
+
+- Merging multiple DataFrames  
+  - Total riders in a month
+  - Three table merge
+  - One-to-many merge with multiple tables
+  
