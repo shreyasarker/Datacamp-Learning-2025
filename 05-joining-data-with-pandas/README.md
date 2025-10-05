@@ -27,4 +27,9 @@ Learn how you can merge disparate data using inner joins. By combining informati
   - Counting missing rows with left join
   - Enriching a dataset
 
+- Other joins
+  - Right join to find unique movies
+  - Popular genres with right join
+  - Using outer join to select actors
+
   
