@@ -32,4 +32,6 @@ Learn how you can merge disparate data using inner joins. By combining informati
   - Popular genres with right join
   - Using outer join to select actors
 
+- Merging a table to itself
+
   
