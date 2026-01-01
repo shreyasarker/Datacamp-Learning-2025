@@ -34,4 +34,9 @@ Learn how you can merge disparate data using inner joins. By combining informati
 
 - Merging a table to itself
   - Self join
+
+- Merging on indexes
+  - Index merge for movie ratings
+  - Do sequels earn more?
+  
   
