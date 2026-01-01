@@ -33,5 +33,5 @@ Learn how you can merge disparate data using inner joins. By combining informati
   - Using outer join to select actors
 
 - Merging a table to itself
-
+  - Self join
   
