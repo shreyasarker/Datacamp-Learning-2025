@@ -1,14 +1,15 @@
-# 🧠 DataCamp Learning Journey – 2025
+# DataCamp Learning Journey – 2025
 
-Welcome to my personal learning repository where I document my progress through DataCamp courses in 2025. This space contains my:
+Personal notes and exercises from DataCamp courses, for future reference.
 
-- 📝 Notes & summaries & Practice code    
-- 📄 Certificates  
+## Structure
 
-## 🌟 Why I'm doing this:
-I want to deepen my understanding of data science and Python, stay accountable, and build a visible learning portfolio.  
-By sharing my progress publicly, I also hope to inspire others who are on a similar journey. 
+```
+DATACAMP-LEARNING-2025/
+├── 00-certificates/
+├── course-name/
+│   ├── notes.md
+│   └── exercises.py
+```
 
----
-
-🛠 Made with 💻 + ☕ + 🔥 by someone committed to lifelong learning.
+🛠 Made with 💻 + ☕ + 🔥
