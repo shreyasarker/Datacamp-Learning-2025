@@ -38,5 +38,6 @@ Learn how you can merge disparate data using inner joins. By combining informati
 - Merging on indexes
   - Index merge for movie ratings
   - Do sequels earn more?
-  
-  
+
+- Filtering joins
+  -   
